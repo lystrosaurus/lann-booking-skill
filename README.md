@@ -408,7 +408,7 @@ python scripts/test_booking.py
 
 ## 联系方式
 
-- **官方网站**：https://www.lannlife.com
+- **官方网站**：建设中
 - **API 文档**：`references/api_reference.md`
 - **技能文档**：`SKILL.md`
 
