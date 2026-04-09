@@ -1,5 +1,5 @@
 {
   "slug": "lann-booking",
-  "version": "1.0.2",
-  "description": "蘭泰式按摩预约技能"
+  "version": "2.0.0",
+  "description": "蘭(Lann)泰式按摩预约技能 - 支持 MCP 和直连 API 模式"
 }
