@@ -1,7 +1,7 @@
 ---
 name: lann-booking
 slug: lann-booking
-lable: 兰泰式按摩预约
+label: 兰泰式按摩预约
 description: 提供蘭泰式按摩（Lann Thai Massage）的门店查询、SPA服务查询和在线预约功能。支持泰式古法按摩、精油护理、草本热敷等专业服务预约，覆盖上海、杭州、成都等多城市门店。
 metadata: {"clawdbot":{"emoji":"💆","requires":{"bins":[]}}}
 version: "2.0.0"
